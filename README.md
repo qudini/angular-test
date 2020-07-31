@@ -58,8 +58,5 @@ This is a JSON api:
 
 ## Ready, get set - GO!
 
- - Install the app: `npm install`
-
- - Start the server: `npm start`
-
-App is at http://127.0.0.1:1337, good luck!
+ - The app runs on port 1337
+ good luck!
