@@ -21,7 +21,7 @@ The application works in the following way:
 
  - User should be able to remove a customer from the queue.
 
- - The list of customers in queue and customers served should be updated to always show the correct status, without refreshing the browser.
+ - **The list of customers in queue and customers served should be updated to always show the correct status, without refreshing the browser.**
 
 Feel free to implement features in your own way, but the general structure of the app should stay the same.
 
